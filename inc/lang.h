@@ -1,0 +1,10 @@
+extern  char *gl_main_menu_options[7] ;
+extern char gl_credit_ln0[];
+extern char gl_credit_ln1[];
+extern char *gl_controller_options[4];
+extern char *gl_autofire_options[4];
+extern char *gl_display_options[2];
+extern char *gl_other_options[3];
+extern char *gl_autosleep_options[5];
+extern char *gl_help_text[6];
+extern char *gl_exception_types[4];
